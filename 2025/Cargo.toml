@@ -1,5 +1,6 @@
 [workspace]
 resolver = "2"
 members = [
+    "0x434C49434B",
     "password_puzzle",
 ]
