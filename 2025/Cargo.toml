@@ -2,6 +2,6 @@
 resolver = "2"
 members = [
     "0x434C49434B", 
-    "gift_shop",
+    "gift_shop", "gift_shop_twice",
     "password_puzzle",
 ]
