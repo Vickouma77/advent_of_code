@@ -11,6 +11,10 @@ name = "gift_shop_twice"
 version = "0.1.0"
 
 [[package]]
+name = "lobby"
+version = "0.1.0"
+
+[[package]]
 name = "method_0x434C49434B"
 version = "0.1.0"
 
