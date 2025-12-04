@@ -6,5 +6,5 @@ members = [
     "gift_shop_twice", 
     "joltage", 
     "lobby",
-    "password_puzzle",
+    "password_puzzle", "printing_department",
 ]
