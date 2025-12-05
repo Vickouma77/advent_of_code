@@ -15,6 +15,10 @@ name = "joltage"
 version = "0.1.0"
 
 [[package]]
+name = "kitchen"
+version = "0.1.0"
+
+[[package]]
 name = "lobby"
 version = "0.1.0"
 

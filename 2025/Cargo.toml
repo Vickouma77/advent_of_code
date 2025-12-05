@@ -5,6 +5,7 @@ members = [
     "gift_shop", 
     "gift_shop_twice", 
     "joltage", 
+    "kitchen", 
     "lobby",
     "password_puzzle", 
     "printing_department",
