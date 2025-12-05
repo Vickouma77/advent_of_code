@@ -4,3 +4,11 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+[[bin]]
+name = "kitchen"
+path = "src/main.rs"
+
+[[bin]]
+name = "kitchen_part2"
+path = "src/part2.rs"
