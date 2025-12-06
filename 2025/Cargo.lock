@@ -37,3 +37,7 @@ version = "0.1.0"
 [[package]]
 name = "roll_paper"
 version = "0.1.0"
+
+[[package]]
+name = "trash-compactor"
+version = "0.1.0"
