@@ -19,6 +19,10 @@ name = "kitchen"
 version = "0.1.0"
 
 [[package]]
+name = "laboratories"
+version = "0.1.0"
+
+[[package]]
 name = "lobby"
 version = "0.1.0"
 
