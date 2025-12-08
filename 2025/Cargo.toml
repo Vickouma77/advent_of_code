@@ -9,6 +9,8 @@ members = [
     "laboratories", 
     "lobby",
     "password_puzzle", 
+    "playground", 
     "printing_department",
-    "roll_paper", "trash-compactor",
+    "roll_paper", 
+    "trash-compactor",
 ]
