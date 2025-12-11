@@ -11,7 +11,7 @@ members = [
     "movie",
     "password_puzzle", 
     "playground", 
-    "printing_department",
+    "printing_department", "reactor",
     "roll_paper", 
     "trash-compactor",
 ]
